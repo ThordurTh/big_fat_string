@@ -1,0 +1,11 @@
+#interface {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    gap: 0.5rem;
+}
+
+
+#output {
+    background-color: #00000005;
+}
